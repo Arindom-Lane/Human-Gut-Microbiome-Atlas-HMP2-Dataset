@@ -1,8 +1,8 @@
-# Human Gut Microbiome Atlas (HMP2) Dataset Backup
+# Human Gut Microbiome Atlas (HMP2) Dataset
 
 ## Overview
 
-This repository serves as an archival backup of the **Human Gut Microbiome Atlas (HMP2)** CSV dataset that was previously available on Kaggle and is no longer accessible in its original form. The purpose of this repository is to preserve the dataset for research reproducibility, educational use, and long-term availability.
+This repository serves as an archival of the **Human Gut Microbiome Atlas (HMP2)** CSV dataset that was previously available on Kaggle and is no longer accessible in its original form. The purpose of this repository is to preserve the dataset for research reproducibility, educational use, and long-term availability.
 
 The original dataset was published on Kaggle by **Qasim Hussain** under the title **"Human Gut Microbiome Atlas (HMP2)"** and was based on data from the Human Microbiome Project 2 (HMP2) / Integrative Human Microbiome Project (iHMP) research initiative. 【1-96123d】【2-7c4aa1】
 
